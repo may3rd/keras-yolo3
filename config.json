@@ -53,7 +53,7 @@
 
     "valid": {
         "valid_image_folder":   "/content/test/images/",
-        "valid_annot_folder":   "/content/test/annots",
+        "valid_annot_folder":   "/content/test/annots/",
         "cache_name":           "raccoon_test.pkl",
 
         "valid_times":          1
